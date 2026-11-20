@@ -1,0 +1,21 @@
+
+import React from 'react';
+import './Navbar.css';
+
+const Navbar = ({ setVistaActual, cantidadCarrito }) => {
+    return (
+        <nav className="main-nav">
+            <ul>
+                <li><button onClick={() => setVistaActual('catalogo')}>Catálogo</button></li>
+                <li>
+                    <button onClick={() => setVistaActual('carrito')}>
+                        🛒 Carrito ({cantidadCarrito})
+                    </button>
+                </li>
+                <li><button onClick={() => setVistaActual('admin')}>Panel Admin</button></li>
+            </ul>
+        </nav>
+    );
+};
+
+export default Navbar;

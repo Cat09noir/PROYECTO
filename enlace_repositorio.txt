@@ -1,0 +1,10 @@
+EVIDENCIA GA7-220501096-AA4-EV03
+Componente front-end del proyecto formativo y proyectos de clase.
+
+Proyecto: Mascotas Pino – Front-End React integrado con Java/JDBC.
+Aprendiz: Icsaid Andrey Pino Vanegas.
+
+Repositorio GitHub:
+https://github.com/Tupaginaweb9/proyecto-jdbc-mascotas-pino
+
+Nota: El repositorio indicado corresponde al remoto configurado en el proyecto recibido. Los cambios de esta evidencia deben publicarse con git push desde el equipo del aprendiz para que queden visibles en GitHub.
